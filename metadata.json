@@ -1,0 +1,8 @@
+{
+  "name": "Remix: AI Developer Portfolio",
+  "description": "An interactive, high-fidelity developer-designer portfolio featuring live project simulators and a server-side Gemini AI chatbot for recruiters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
